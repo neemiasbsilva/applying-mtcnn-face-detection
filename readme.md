@@ -3,7 +3,7 @@
 ## About
 
 <p align="center"><img src="mtcnn.png" width="60%" height="45%"></p> 
-<h6 align="center">Architecture definition of deep learning model.</h6>
+<h6 align="center">Multi-task Cascade Convolutional Neural Network (MTCNN) Architecture.</h6>
 
 This repository has as goal to use the __Multi-task Cascade Convolutional Neural Network__ (MTCNN) for face detection. Basically, MTCNN is devided in three steges. The first stage contain a prediction of candidate facial regions (P-Net), the second stages filters the bounding boxes (R-net), and the third and last stage proposes facial landmarks (O-Net). For know more about the technique, please read the referenced paper (find in the section call Reference).
 
