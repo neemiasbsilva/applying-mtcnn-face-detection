@@ -41,8 +41,8 @@ For run this repository, please open the terminal and run the following command:
 
 ## Result
 
-<p align="center"><img src="image_10.png" width="60%" height="45%"></p> 
-<h6 align="center">Result of application Multi-task Cascade Convolutional Neural Network (MTCNN) architecture.</h6>
+<p align="center"><img src="dataset/image_10.jpg" width="45%" height="45%"> <img src="mtcnn_result/image_10.jpg" width="40%" height="45%"></p> 
+<h6 align="center">Result of application Multi-task Cascade Convolutional Neural Network (MTCNN) architecture. Photo by Bob n Renee, some rights reserved.</h6>
 
 When you run the run.sh file, you get as result the face and landmark detection of each image. The figure bellow show how the result of MTCNN techniques it is. 
 
