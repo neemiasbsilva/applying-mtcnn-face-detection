@@ -20,7 +20,7 @@ For apply the MTCNN approach was choosed 10 images. The first nine images is ava
 ### Prerequisites
 
 ```
-Good knowledgment in Deep Convolutional Neural Network, Computer Vision, and know how to use .sh file ".sh" (command-line interpreter).
+Good knowledgment in Deep Convolutional Neural Network, Computer Vision, and know how to use ".sh" file.
 ```
 
 ### Installing
