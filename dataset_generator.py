@@ -10,7 +10,7 @@ class DataGenerator:
 
     def get_dataset(self):
 
-        image_names = os.listdir(path_dataset)
+        image_names = os.listdir(self.path_dataset)
         images = []
 
         for img_name in image_names:
