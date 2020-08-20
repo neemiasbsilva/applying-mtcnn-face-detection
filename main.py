@@ -15,7 +15,7 @@ if __name__ == '__main__':
 
     path_dataset = arguments.path_dataset
 
-    dataset_generator = DataGenerator()
+    dataset_generator = DataGenerator(path_dataset)
 
     dataset = dataset_generator.get_dataset()
     
