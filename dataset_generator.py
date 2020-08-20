@@ -1,6 +1,7 @@
 import os
 import numpy as np
 import cv2
+import matplotlib.pyplot as plt
 
 class DataGenerator:
 
@@ -15,11 +16,12 @@ class DataGenerator:
 
         for img_name in image_names:
 
-            img = cv2.imread(img_name)
+            img = plt.imread(os.path.join(self.path_dataset, img_name))
+            # img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
             images.append(img)
 
         images_arr = np.array(images)
 
-        return images_arr
+        return images_arr, image_names
 
         
