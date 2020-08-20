@@ -8,6 +8,9 @@
 This repository has as goal to use the __Multi-task Cascade Convolutional Neural Network__ (MTCNN) for face detection. Basically, MTCNN is devided in three steges. The first stage contain a prediction of candidate facial regions (P-Net), the second stages filters the bounding boxes (R-net), and the third and last stage proposes facial landmarks (O-Net). For know more about the technique, please read the referenced paper (find in the section call Reference).
 
 
+## Datasets Used
+
+For apply the MTCNN approach was choosed 10 images. The first nine images is available in the dataset called __Real and Fake Face Detection__, this dataset can be acess free from the [kaggle](https://www.kaggle.com/ciplab/real-and-fake-face-detection) competetion. The last image was capture for the photographer _Bob N. Renee_.
 
 
 ## Reference
