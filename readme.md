@@ -13,7 +13,7 @@ This repository has as goal to use the __Multi-task Cascade Convolutional Neural
 <p align="center"><img src="dataset/image_01.jpg" width="10%" height="45%"><img src="dataset/image_02.jpg" width="10%" height="45%"><img src="dataset/image_01.jpg" width="10%" height="45%"><img src="dataset/image_03.jpg" width="10%" height="45%"><img src="dataset/image_04.jpg" width="10%" height="45%"></p> 
 <h6 align="center">Real and Fake Face Detection dataset, available in <a href="https://www.kaggle.com/ciplab/real-and-fake-face-detection">kaggle</a> competition.</h6>
 
-For apply the MTCNN approach was choosed 10 images. The first nine images is available in the dataset called __Real and Fake Face Detection__, this dataset can be acess free from the [kaggle](https://www.kaggle.com/ciplab/real-and-fake-face-detection) competetion. The last image was capture for the photographer _Bob N. Renee_.
+For apply the MTCNN approach was choosed 10 images. The first nine images is available in the dataset called __Real and Fake Face Detection__, this dataset can be acess free from the [kaggle](https://www.kaggle.com/ciplab/real-and-fake-face-detection) competetion. The last image was capture by photographer _Bob N. Renee_.
 
 ## Getting Started
 
